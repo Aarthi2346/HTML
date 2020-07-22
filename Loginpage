@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>login form design</title>
+ <link rel="Stylesheet" type="text/css" href="Style.css">
+<body>
+<form>
+  <div class="loginbox">
+  <h1> sign in</h1>
+  
+  <input type="text" name="E-Mail" placeholder="mail@example.com"/><br><br>
+  <input type="text" name="password" placeholder="password"/><br><br>
+  <br>
+  <button type="button" class="signin-btn">SIGN IN</button><br>
+  <p>Forgot your password?             Register!</p>
+  <hr>
+  <p class="or">OR</p>
+  
+  <button class="facebook-button">f</button><br>
+  <br>
+  <button class="google-button">g</button><br>
+  <br>
+  <button class="EPAM-LOGIN">EPAM LOGIN</button><br>
+  
+  </div>
+  
+</form>  
+</body>
+</head>
+</html>
